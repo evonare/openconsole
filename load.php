@@ -1,7 +1,7 @@
 <?php
 /**
  * Appzaib (https://appzaib.com)
- * @copyright Rana Jahanzaib 2019
+ * @copyright Appzaib 2019
  * 
  * 
  * Application Loader
