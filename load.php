@@ -1,6 +1,6 @@
 <?php
 /**
- * Appzaib (https://ranajahanzaib.com)
+ * Appzaib (https://appzaib.com)
  * @copyright Rana Jahanzaib 2019
  * 
  * 
